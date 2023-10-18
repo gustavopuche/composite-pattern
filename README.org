@@ -1,0 +1,5 @@
+* C++ Composite Pattern Example
+
+Simple example showing a Composite tree dobule linked.
+
+It is used the composite pattern to spread Operation call in all childrens.
